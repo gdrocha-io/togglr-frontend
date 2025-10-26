@@ -6,7 +6,7 @@
 
 [![Build Status](https://github.com/gdrocha-io/togglr-frontend/workflows/CI/badge.svg)](https://github.com/gdrocha-io/togglr-frontend/actions)
 [![Docker Pulls](https://img.shields.io/docker/pulls/gdrocha/togglr-frontend)](https://hub.docker.com/r/gdrocha/togglr-frontend)
-[![Helm Chart](https://img.shields.io/badge/helm-chart-blue)](https://artifacthub.io/packages/helm/togglr/togglr-frontend)
+[![Artifact Hub](https://img.shields.io/endpoint?url=https://artifacthub.io/badge/repository/togglr)](https://artifacthub.io/packages/search?repo=togglr)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 [![React](https://img.shields.io/badge/react-18.3.1-blue.svg)](https://reactjs.org/)
 [![TypeScript](https://img.shields.io/badge/typescript-5.8.3-blue.svg)](https://www.typescriptlang.org/)
