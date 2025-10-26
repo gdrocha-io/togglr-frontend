@@ -44,7 +44,7 @@ docker run -d \
 
 ```bash
 # Add Helm repository
-helm repo add togglr https://gdrocha-io.github.io/togglr-charts
+helm repo add togglr https://gdrocha-io.github.io/togglr-helm-charts
 helm repo update
 
 # Install
