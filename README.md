@@ -4,7 +4,6 @@
 
 **Modern React Frontend for Feature Toggle Management**
 
-[![Build Status](https://github.com/gdrocha-io/togglr-frontend/workflows/CI/badge.svg)](https://github.com/gdrocha-io/togglr-frontend/actions)
 [![Docker Pulls](https://img.shields.io/docker/pulls/gdrocha/togglr-frontend)](https://hub.docker.com/r/gdrocha/togglr-frontend)
 [![Artifact Hub](https://img.shields.io/endpoint?url=https://artifacthub.io/badge/repository/togglr)](https://artifacthub.io/packages/search?repo=togglr)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
@@ -178,7 +177,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-- 📖 [Documentation](https://github.com/gdrocha-io/togglr/wiki)
 - 🐛 [Issue Tracker](https://github.com/gdrocha-io/togglr-frontend/issues)
 - 💬 [Discussions](https://github.com/gdrocha-io/togglr-frontend/discussions)
 - 📧 [Email](mailto:gabriel@gdrocha.io)
